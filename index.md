@@ -69,7 +69,7 @@ __Consultant__, *HiQ*, Stockholm
 
 - Engaged in various roles across different projects, emphasizing Java development, tools, and Continuous Delivery (CD).
 - Contributed to a project at Ericsson focusing on Test Automation, Continuous Integration (CI), and CI strategy. Managed Jenkins, builds, and deployment pipelines, along with conducting workshops on CI strategy, repository management, and Maven migration.
-- Worked within a KANBAN team focusing on maintenance of a complex legacy system including AS400. Implemented a test framework, enhanced logging procedures, and led a small project from technical documentation through to GUI implementation.
+- At Cramo, I joined a team focusing on maintenance of a complex legacy system including AS400. Spearheaded the implementation of a test framework, enhanced logging procedures, and led a small project encompassing technical documentation through to GUI implementation.
 - For DEKRA Automotive, developed a support system for vehicle inspections workflow. Led the technical test strategy, tooling, and automated tests using Selenium, JUnit, and followed TDD practices.
 - **Technologies and Skills**: Java, Jenkins, Maven, Selenium, JUnit, Test Automation, Continuous Delivery, Continuous Integration, OWASP Zap, Spring, Python, Bash, Linux, Sonar, MySQL, Ant, Test Strategy, KANBAN, TDD
 
