@@ -130,7 +130,7 @@ IT - Master of Science (MS)
 Master of Education
 
 ### John Bauer
-`2015`
+`2005`
 IT Programming
 
 <!-- ### Footer
