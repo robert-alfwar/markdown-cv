@@ -1,91 +1,139 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Robert Westin's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Robert Westin
+Software Developer, Consultant, Educator based in Stockholm.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:robert.westin@alfwar.se">robert.westin@alfwar.se</a>
+| <a href="https://www.linkedin.com/in/robert-westin">My linkedin page</a>
 </div>
 
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
+I have a passion for systemic thinking in software development, with a specialization in Agile methodologies and a holistic DevOps approach. My consultancy in Stockholm, focuses on system design and efficient developer experiences, while my role as an educator at "Yrkeshögskolan" allows me to impart essential skills in programming, automation, CI & CD, and cloud technologies to aspiring IT professionals. My journey is about understanding intricate systems and the people behind the technology, continuously striving to enhance learning and improvement in both realms.
 
-### Specialized in
+## Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Nov 2021 - Present`
+__Lead Developer__, *SONIQ*, Stockholm
+- Addressed stimulating problems in a dynamic startup environment, focusing on innovative system design with NoSQL and serverless architectures.
+- Managed multiple AWS accounts and led offshore developers, providing mentorship to elevate team skills and ensure quality.
 
 
-### Research interests
+ `Aug 2017 - Present`
+__Founder__, *Alfwar Data*, Stockholm
+- **Backend Development**:
+    - Operated as a NodeJS backend developer in an AWS serverless architecture, and developed a NodeJs express-based service that consumes APIs, accessible via OpenAPI/Swagger.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- **Cloud Technologies and DevOps**:
+    - Managed AWS services such as Lambda, IoT, ElasticSearch, DynamoDB, and CloudFormation. Also worked with tools like Jenkins, Docker, and Cloudwatch to improve automation and tool support for agile teams.
+
+- **Quality Management and Testing**:
+    - Served as a Developer / Quality Manager focused on testing and automation frameworks on an IoT platform hosted on AWS.
+
+- **Educational Contributions**:
+    - Served as an educator in programming, automation, CI & CD, and cloud technologies at Nackademin and Yrkeshögskolan, focusing on imparting essential skills and knowledge to students.
+
+
+`Aug 2015 - Sep 2017`
+__Infrastructure Dev Team / SDET__, *LeoVegas*, Stockholm
+
+- Initially served as a Test Engineer in a rapidly growing organization, focusing on system design, integration tests, and load tests. Contributed to cross-team efforts to develop solutions and enhance agile processes, acting as a Scrum Master stand-in for several sprints.
+- Transitioned to the Infrastructure team, embodying DevOps principles as a Site Reliability Engineer (SRE), in a Docker-based production system managed through infrastructure as code and Git operations. Our team managed Elasticsearch and worked extensively with the ELK stack to ensure optimal system performance and reliability.
+- **Technologies and Skills**: Java, JavaScript, NodeJS, Jenkins, Ansible, Couchbase, Micro Services, SCRUM, Mobile, REST, Docker, Protobuf, Linux, Git, Cloud, Selenium, Python, Locust, DevOps, Test Automation, Rackspace, cloud, ELK, Elasticsearch
+
+
+`Nov 2014 - Aug 2015`
+__Software Development Engineer in Test__, *Nordnet Bank AB*, Stockholm
+
+- Worked as a Test Engineer in a cross-functional team alongside Developers, a Scrum Master, Operations Engineer, and a Product Owner.
+- Took on the responsibility for the quality delivered by the team, focusing on best practices in system design, exploratory testing, and code-based test automation.
+- Engaged in enhancing the way of working, deployment pipeline, and implementing DevOps principles to streamline processes.
+- **Technologies and Skills**: Java, Spring, JavaScript, Jenkins, Maven, Oracle Database, MySQL, Selenium, REST, SCRUM, Micro Services, DevOps, Test Automation
+
+`May 2014 - Nov 2014`
+__Software Development Engineer in Test__, *Intel Security*
+
+- Engaged as an SDET in a cross-product QA team for a cloud-based product, collaborating closely with developers, support, and management.
+- Developed and implemented the strategy and framework for test automation in a newly developed Java/ExtJs application.
+- Responsible for planning and estimating the required test environments.
+- The test automation framework was built using Selenium WebDriver, RADIUS client, and proxied through OWASP ZAP for basic security testing.
+- Following office closure due to reorganizations, utilized the time to pursue professional development through courses like LDAP Fundamentals, LPIC-1, OWASP TOP 10, Foundations of Cryptography, and White Box Testing Techniques.
+- **Technologies and Skills**: Test Automation, Python, Cybersecurity, Selenium WebDriver, RADIUS, OWASP ZAP, Java, ExtJs, LDAP, LPIC-1, Cryptography, White Box Testing
+
+`May 2012 - May 2014`
+__Consultant__, *HiQ*, Stockholm
+
+- Engaged in various roles across different projects, emphasizing Java development, tools, and Continuous Delivery (CD).
+- Contributed to a project at Ericsson focusing on Test Automation, Continuous Integration (CI), and CI strategy. Managed Jenkins, builds, and deployment pipelines, along with conducting workshops on CI strategy, repository management, and Maven migration.
+- Worked within a KANBAN team focusing on maintenance of a complex legacy system including AS400. Implemented a test framework, enhanced logging procedures, and led a small project from technical documentation through to GUI implementation.
+- For DEKRA Automotive, developed a support system for vehicle inspections workflow. Led the technical test strategy, tooling, and automated tests using Selenium, JUnit, and followed TDD practices.
+- **Technologies and Skills**: Java, Jenkins, Maven, Selenium, JUnit, Test Automation, Continuous Delivery, Continuous Integration, OWASP Zap, Spring, Python, Bash, Linux, Sonar, MySQL, Ant, Test Strategy, KANBAN, TDD
+
+`Mar 2012`
+__Project Employment__, *RISE Research Institutes of Sweden*, Kista
+
+- Developed a prototype Android app for a study, designed to test different mobile phone feedback mechanisms, which was later tested on Cross country skiers.
+- **Technologies and Skills**: Bluetooth, Android-SDK, Java, Audio, Vibration, Client/Server architecture
+
+`Oct 2011 - Feb 2012`
+__Master Thesis__, *KTH*, Stockholm
+
+- Developed in Android SDK working with multiple Bluetooth devices in a real-time data recording setup.
+- **Technologies and Skills**: Bluetooth, Android SDK, Java, Canvas, Technical Writing, Mobile Applications
+
+## Early Life and Introduction to IT
+
+Growing up in a household where technology was a focal point, my journey into the realm of IT started at a young age. The first computer I had the chance to explore was a 386, on which I played games sierra and LucasArts adventure games. These weren't just games, but windows into problem-solving and logical thinking.
+
+### Internships
+
+My practical experience in IT commenced with a series of internships during my junior high and high school years. These internships provided a glimpse into the different facets of the IT industry, enriching my understanding not only of technical roles but also of the dynamics within teams and organizations.
+
+
+`Jan 2005 - Mar 2005`
+__Developer Intern__, *Metsä Board*, Örnsköldsvik
+- Developed an Excel plugin using VBA and contributed to Microsoft Help documentation.
+
+`Apr 2002`
+__Intern__, *Hewlett-Packard*, Stockholm
+- Gained a broad overview of various departments such as Logistics (Transfargo), Support, and Customer Complaints during a one-week internship.
+
+`Nov 2001`
+__Intern__, *Frontec*, Fränsta
+- Acquired hands-on experience in IT support during a one-week internship.
+
+`Feb 2001`
+__Intern__, *Danielssons Snick och Bygg*, Ljungaverk
+- Created the company's first website using Microsoft FrontPage during a one-week internship.
+
+
+## Licenses & Certifications
+
+- LFCA: Linux Foundation Certified IT Associate, The Linux Foundation _(Feb 2022 – Feb 2025)_
+- LFCS: Linux Foundation Certified Systems Administrator, The Linux Foundation _(Feb 2022 – Feb 2025)_
+- CKAD: Certified Kubernetes Application Developer, The Linux Foundation _(Aug 2021 – Aug 2024)_
+- CKA: Certified Kubernetes Administrator, The Linux Foundation _(Dec 2020 – Dec 2023)_
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
+### KTH 
 `2012`
-President, *Royal Society*, London, UK
+IT - Master of Science (MS)
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
+### Stockholm University
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Master of Education
 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+### John Bauer
+`2015`
+IT Programming
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: Oct 2023 -->
 
 
