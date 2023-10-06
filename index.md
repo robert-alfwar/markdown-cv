@@ -21,22 +21,25 @@ I have a passion for systemic thinking in software development, with a specializ
 __Lead Developer__, *SONIQ*, Stockholm
 - Addressed stimulating problems in a dynamic startup environment, focusing on innovative system design with NoSQL and serverless architectures.
 - Managed multiple AWS accounts and led offshore developers, providing mentorship to elevate team skills and ensure quality.
-
+- **Technologies and Skills**:  Mentoring, Software Design, Software Architectural Design, Serverless Computing, Scalability, Coaching, Technical Leadership, Test Automation, Continuous Delivery, Amazon Web Services (AWS), Node.js, JavaScript.
 
  `Aug 2017 - Present`
 __Founder__, *Alfwar Data*, Stockholm
 - **Backend Development**:
-    - Operated as a NodeJS backend developer in an AWS serverless architecture, and developed a NodeJs express-based service that consumes APIs, accessible via OpenAPI/Swagger.
+    - Operated as a NodeJS backend developer in an AWS serverless architecture, and developed a NodeJs express-based service that consumes APIs, accessible via OpenAPI/Swagger. Additionally, worked with Python Flask and Spring Boot for various backend development projects.
+    - **Technologies and Skills**: Node.js, Express, OpenAPI, Swagger, Python Flask, Spring Boot
 
 - **Cloud Technologies and DevOps**:
-    - Managed AWS services such as Lambda, IoT, ElasticSearch, DynamoDB, and CloudFormation. Also worked with tools like Jenkins, Docker, and Cloudwatch to improve automation and tool support for agile teams.
+    - Managed AWS services such as Lambda, IoT, ElasticSearch, DynamoDB, and CloudFormation. Also worked with tools like Jenkins, Docker, and Cloudwatch to improve automation and tool support for agile teams. Engaged with Microsoft Azure for various cloud-based solutions.
+     - **Technologies and Skills**: AWS Lambda, AWS IoT, Elasticsearch, DynamoDB, CloudFormation, Jenkins, Docker, CloudWatch, DevOps, Microsoft Azure
 
 - **Quality Management and Testing**:
     - Served as a Developer / Quality Manager focused on testing and automation frameworks on an IoT platform hosted on AWS.
+     - **Technologies and Skills**: Testing Frameworks, Automation, AWS, Quality Management
 
 - **Educational Contributions**:
     - Served as an educator in programming, automation, CI & CD, and cloud technologies at Nackademin and Yrkeshögskolan, focusing on imparting essential skills and knowledge to students.
-
+    - **Technologies and Skills**: CI/CD, Cloud Technologies, Programming, Visualization, Automation, Teaching, Pedagogy
 
 `Aug 2015 - Sep 2017`
 __Infrastructure Dev Team / SDET__, *LeoVegas*, Stockholm
