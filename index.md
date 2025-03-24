@@ -3,40 +3,47 @@ layout: cv
 title: Robert Westin's CV
 ---
 # Robert Westin
-Software Developer, Consultant, Educator based in Stockholm.
+Devloper, DevOps Expert, Educator based in Stockholm.
 
 <div id="webaddress">
 <a href="mailto:robert.westin@alfwar.se">robert.westin@alfwar.se</a>
 | <a href="https://www.linkedin.com/in/robert-westin">My linkedin page</a>
 </div>
 
-
 ## Summary
 
-I have a passion for systemic thinking in software development, with a specialization in Agile methodologies and a holistic DevOps approach. My consultancy in Stockholm, focuses on system design and efficient developer experiences, while my role as an educator at "Yrkeshögskolan" allows me to impart essential skills in programming, automation, CI & CD, and cloud technologies to aspiring IT professionals. My journey is about understanding intricate systems and the people behind the technology, continuously striving to enhance learning and improvement in both realms.
+I am currently focused on helping companies navigate the AI transformation. With a strong DevOps background, I’m a generalist at heart, navigating maintainability, agility, quality, security, AI-driven development, automation, and modern engineering practices. My goal is to ensure that AI integration is both scalable and practical, aligning with existing systems and engineering cultures to drive real impact.
 
 ## Experience
-
-`Nov 2021 - Present`
-__Lead Developer__, *SONIQ*, Stockholm
-- Addressed stimulating problems in a dynamic startup environment, focusing on innovative system design with NoSQL and serverless architectures.
-- Managed multiple AWS accounts and led offshore developers, providing mentorship to elevate team skills and ensure quality.
-
 
  `Aug 2017 - Present`
 __Founder__, *Alfwar Data*, Stockholm
 - **Backend Development**:
-    - Operated as a NodeJS backend developer in an AWS serverless architecture, and developed a NodeJs express-based service that consumes APIs, accessible via OpenAPI/Swagger.
+    - Multiple NodeJS backend developer projects, both standalone and in AWS serverless architecture, utilizing frameworks such as OpenAPI, ElasticSearch, and ExpressJS.
 
 - **Cloud Technologies and DevOps**:
-    - Managed AWS services such as Lambda, IoT, ElasticSearch, DynamoDB, and CloudFormation. Also worked with tools like Jenkins, Docker, and Cloudwatch to improve automation and tool support for agile teams.
+    - Designing & implementing cloud services in AWS and Azure
+    - Managed AWS services such as Lambda, IoT, ElasticSearch, DynamoDB, and CloudFormation
+    - Utilized tools like Jenkins, GitHub, Docker, Cloudwatch, Terraform, to improve automation and tool support for agile teams.
+
+- **Platform Engineering**:
+    - On-prem Kubernetes and platform engineering with an emphasis on SRE, monitoring, and Infrastructure as Code (IaC)
+    - Managed PKI (Public Key Infrastructure) solutions
+    - Ensured compliance with ISO 27001 standards and other regulatory requirements.
 
 - **Quality Management and Testing**:
     - Served as a Developer / Quality Manager focused on testing and automation frameworks on an IoT platform hosted on AWS.
+    - Responsible for overseeing and improving development processes, ensuring compliance
+    - Managed release processes, ensuring smooth and timely deployments.
+    - Developed and maintained custom test frameworks to enhance testing.
 
 - **Educational Contributions**:
-    - Served as an educator in programming, automation, CI & CD, and cloud technologies at Nackademin and Yrkeshögskolan, focusing on imparting essential skills and knowledge to students.
+    - Served as an educator in programming, automation, security, agile development, CI & CD, and cloud technologies at Nackademin, focusing on imparting essential skills and knowledge to students.
 
+`Nov 2021 - Oct 2023` *part time*
+__Lead Cloud Developer__, *SONIQ*, Stockholm
+- Addressed stimulating problems in a dynamic startup environment, focusing on innovative system design with NoSQL and serverless architectures.
+- Managed multiple AWS accounts and led offshore developers, providing mentorship to elevate team skills and ensure quality.
 
 `Aug 2015 - Sep 2017`
 __Infrastructure Dev Team / SDET__, *LeoVegas*, Stockholm
@@ -71,6 +78,7 @@ __Consultant__, *HiQ*, Stockholm
 - Contributed to a project at Ericsson focusing on Test Automation, Continuous Integration (CI), and CI strategy. Managed Jenkins, builds, and deployment pipelines, along with conducting workshops on CI strategy, repository management, and Maven migration.
 - At Cramo, I joined a team focusing on maintenance of a complex legacy system including AS400. Spearheaded the implementation of a test framework, enhanced logging procedures, and led a small project encompassing technical documentation through to GUI implementation.
 - For DEKRA Automotive, developed a support system for vehicle inspections workflow. Led the technical test strategy, tooling, and automated tests using Selenium, JUnit, and followed TDD practices.
+- Started internal initiative to increase understanding and interest in test automation, CI/CD, and DevOps through colleague training and inspirational lectures.
 - **Technologies and Skills**: Java, Jenkins, Maven, Selenium, JUnit, Test Automation, Continuous Delivery, Continuous Integration, OWASP Zap, Spring, Python, Bash, Linux, Sonar, MySQL, Ant, Test Strategy, KANBAN, TDD
 
 `Mar 2012`
@@ -113,11 +121,12 @@ __Intern__, *Danielssons Snick och Bygg*, Ljungaverk
 
 ## Licenses & Certifications
 
+- JSNAD: OpenJS Node.js Application Developer, The Linux Foundation _(Oct 2023 - Oct 2026)_
+- JSNSD: OpenJS Node.js Services Developer, The Linux Foundation _(Oct 2023 - Oct 2026)_
 - LFCA: Linux Foundation Certified IT Associate, The Linux Foundation _(Feb 2022 – Feb 2025)_
 - LFCS: Linux Foundation Certified Systems Administrator, The Linux Foundation _(Feb 2022 – Feb 2025)_
 - CKAD: Certified Kubernetes Application Developer, The Linux Foundation _(Aug 2021 – Aug 2024)_
 - CKA: Certified Kubernetes Administrator, The Linux Foundation _(Dec 2020 – Dec 2023)_
-
 
 ## Education
 
