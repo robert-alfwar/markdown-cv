@@ -40,7 +40,7 @@ __Founder__, *Alfwar Data*, Stockholm
 - **Educational Contributions**:
     - Served as an educator in programming, automation, security, agile development, CI & CD, and cloud technologies at Nackademin, focusing on imparting essential skills and knowledge to students.
 
-`Nov 2021 - Oct 2023` *part time*
+`Nov 2021 - Oct 2023 (part time)`
 __Lead Cloud Developer__, *SONIQ*, Stockholm
 - Addressed stimulating problems in a dynamic startup environment, focusing on innovative system design with NoSQL and serverless architectures.
 - Managed multiple AWS accounts and led offshore developers, providing mentorship to elevate team skills and ensure quality.
