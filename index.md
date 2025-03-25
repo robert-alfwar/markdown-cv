@@ -3,7 +3,7 @@ layout: cv
 title: Robert Westin's CV
 ---
 # Robert Westin
-Devloper, DevOps Expert, Educator based in Stockholm.
+Developer, DevOps Expert and Educator based in Stockholm.
 
 <div id="webaddress">
 <a href="mailto:robert.westin@alfwar.se">robert.westin@alfwar.se</a>
