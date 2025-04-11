@@ -17,36 +17,36 @@ With a strong DevOps background, I’m a generalist at heart, navigating maintai
 ## Experience
 
  `Aug 2017 - Present`
-__Founder__, *Alfwar Data*, Stockholm
-- **Independent Consultant**:
-    - As an independent consultant, Taking on multiple roles and responsibilities to meet the diverse needs of my clients.
-    - My work span across different domains as IoT, B2B, B2C, insurance companies, and education. Allowing me to leverage a wide range of skills and expertise.
+- __Founder__, *Alfwar Data*, Stockholm
+    - **Independent Consultant**:
+        - As an independent consultant, Taking on multiple roles and responsibilities to meet the diverse needs of my clients.
+        - My work span across different domains as IoT, B2B, B2C, insurance companies, and education. Allowing me to leverage a wide range of skills and expertise.
 
-- **Backend Development**:
-    - Multiple NodeJS backend developer projects, both standalone and in AWS serverless architecture, utilizing frameworks such as OpenAPI, ElasticSearch, and ExpressJS.
-    - Python programming and scripting for various automation tasks and backend services.
-    
-- **Cloud Technologies and DevOps**:
-    - Designing & implementing cloud services in AWS and Azure
-    - AWS services such as Lambda, IoT, ElasticSearch, DynamoDB
-    - Azure DevOps, IaC with terraform for Azure, Azure Monitor, IAM
-    - Utilized tools like Jenkins, GitHub, Docker, Cloudwatch, Alertmanager, k6 to improve automation and tool support for agile teams.
+    - **Backend Development**:
+        - Multiple NodeJS backend developer projects, both standalone and in AWS serverless architecture, utilizing frameworks such as OpenAPI, ElasticSearch, and ExpressJS.
+        - Python programming and scripting for various automation tasks and backend services.
+        
+    - **Cloud Technologies and DevOps**:
+        - Designing & implementing cloud services in AWS and Azure
+        - AWS services such as Lambda, IoT, ElasticSearch, DynamoDB
+        - Azure DevOps, IaC with terraform for Azure, Azure Monitor, IAM
+        - Utilized tools like Jenkins, GitHub, Docker, Cloudwatch, Alertmanager, k6 to improve automation and tool support for agile teams.
 
-- **Platform Engineering & Security**:
-    - On-prem Kubernetes and platform engineering with an emphasis on SRE, monitoring, and Infrastructure as Code (IaC)
-    - Managed PKI (Public Key Infrastructure) solutions
-    - Utilized surface scanning tools such as Detectify. 
-    - Application security guidelines with OWASP, and DevSecOps with SAST, DAST and SCA with tools as sonarqube, pentera, dependency-check, mend, snyk, trivy.
-    - Ensured compliance with ISO 27001 standards and other regulatory requirements.
+    - **Platform Engineering & Security**:
+        - On-prem Kubernetes and platform engineering with an emphasis on SRE, monitoring, and Infrastructure as Code (IaC)
+        - Managed PKI (Public Key Infrastructure) solutions
+        - Utilized surface scanning tools such as Detectify. 
+        - Application security guidelines with OWASP, and DevSecOps with SAST, DAST and SCA with tools as sonarqube, pentera, dependency-check, mend, snyk, trivy.
+        - Ensured compliance with ISO 27001 standards and other regulatory requirements.
 
-- **Quality Management and Testing**:
-    - Served as a Quality Manager focused on testing and automation frameworks
-    - Responsible for overseeing and improving development processes, ensuring compliance
-    - Managed release processes, ensuring smooth and timely deployments.
-    - Developed and maintained custom Python/NodeJS test frameworks to enhance testing.
+    - **Quality Management and Testing**:
+        - Served as a Quality Manager focused on testing and automation frameworks
+        - Responsible for overseeing and improving development processes, ensuring compliance
+        - Managed release processes, ensuring smooth and timely deployments.
+        - Developed and maintained custom Python/NodeJS test frameworks to enhance testing.
 
-- **Educational Contributions**:
-    - Served as an educator in programming, automation, security, agile development, CI & CD, and cloud technologies at Nackademin, focusing on imparting essential skills and knowledge to students.
+    - **Educational Contributions**:
+        - Served as an educator in programming, automation, security, agile development, CI & CD, and cloud technologies at Nackademin, focusing on imparting essential skills and knowledge to students.
 
 `Nov 2021 - Oct 2023 (part time)`
 __Lead Cloud Developer__, *SONIQ*, Stockholm
