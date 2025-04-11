@@ -49,58 +49,58 @@ With a strong DevOps background, I’m a generalist at heart, navigating maintai
         - Served as an educator in programming, automation, security, agile development, CI & CD, and cloud technologies at Nackademin, focusing on imparting essential skills and knowledge to students.
 
 `Nov 2021 - Oct 2023 (part time)`
-__Lead Cloud Developer__, *SONIQ*, Stockholm
-- Addressed stimulating problems in a dynamic startup environment, focusing on innovative system design with NoSQL and serverless architectures.
-- Designed and implemented a multi-account setup using AWS Control Tower and Landing Zone pattern to ensure a secure and scalable cloud environment.
-- Managed DNS configurations using Route 53.
-- Utilized AWS Serverless Application Model (SAM) for building serverless applications, ensuring efficient deployment and management of resources.
-- Developed comprehensive solution architectures to address our needs, focusing on scalability, security, and cost-efficiency.
-- Lead for hybrid team with offshore developers.
+- __Lead Cloud Developer__, *SONIQ*, Stockholm
+    - Addressed stimulating problems in a dynamic startup environment, focusing on innovative system design with NoSQL and serverless architectures.
+    - Designed and implemented a multi-account setup using AWS Control Tower and Landing Zone pattern to ensure a secure and scalable cloud environment.
+    - Managed DNS configurations using Route 53.
+    - Utilized AWS Serverless Application Model (SAM) for building serverless applications, ensuring efficient deployment and management of resources.
+    - Developed comprehensive solution architectures to address our needs, focusing on scalability, security, and cost-efficiency.
+    - Lead for hybrid team with offshore developers.
+- **Technologies and Skills**: NodeJS, AWS, GitHub, Cloudformation, SAM, SCRUM, Security, REST, Containers, Linux, Git, Cloud, Python, DevOps, Test Automation, Project Management, Team Leadership, Cloud Architecture, Cyber Security, Serverless, IAM, NoSQL 
+
 
 `Aug 2015 - Sep 2017`
-__Infrastructure Dev Team / SDET__, *LeoVegas*, Stockholm
-- Initially served as a Test Engineer in a rapidly growing organization, focusing on system design, integration tests, and load tests. Contributed to cross-team efforts to develop solutions and enhance agile processes, acting as a Scrum Master stand-in for several sprints.
-- Transitioned to the Infrastructure team, embodying DevOps principles as a Site Reliability Engineer (SRE), in a Docker-based production system managed through infrastructure as code and Git operations. Our team managed Elasticsearch and worked extensively with the ELK stack to ensure optimal system performance and reliability.
+- __Infrastructure Dev Team / SDET__, *LeoVegas*, Stockholm
+    - Initially served as a Test Engineer in a rapidly growing organization, focusing on system design, integration tests, and load tests. Contributed to cross-team efforts to develop solutions and enhance agile processes, acting as a Scrum Master stand-in for several sprints.
+    - Transitioned to the Infrastructure team, embodying DevOps principles as a Site Reliability Engineer (SRE), in a Docker-based production system managed through infrastructure as code and Git operations. Our team managed Elasticsearch and worked extensively with the ELK stack to ensure optimal system performance and reliability.
 - **Technologies and Skills**: Java, JavaScript, NodeJS, Jenkins, Ansible, Couchbase, Micro Services, SCRUM, Mobile, REST, Docker, Protobuf, Linux, Git, Cloud, Selenium, Python, Locust, DevOps, Test Automation, Rackspace, cloud, ELK, Elasticsearch
 
 `Nov 2014 - Aug 2015`
-__Software Development Engineer in Test__, *Nordnet Bank AB*, Stockholm
+- __Software Development Engineer in Test__, *Nordnet Bank AB*, Stockholm
 
-- Worked as a Test Engineer in a cross-functional team alongside Developers, a Scrum Master, Operations Engineer, and a Product Owner.
-- Took on the responsibility for the quality delivered by the team, focusing on best practices in system design, exploratory testing, and code-based test automation.
-- Engaged in enhancing the way of working, deployment pipeline, and implementing DevOps principles to streamline processes.
+    - Worked as a Test Engineer in a cross-functional team alongside Developers, a Scrum Master, Operations Engineer, and a Product Owner.
+    - Took on the responsibility for the quality delivered by the team, focusing on best practices in system design, exploratory testing, and code-based test automation.
+    - Engaged in enhancing the way of working, deployment pipeline, and implementing DevOps principles to streamline processes.
 - **Technologies and Skills**: Java, Spring, JavaScript, Jenkins, Maven, Oracle Database, MySQL, Selenium, REST, SCRUM, Micro Services, DevOps, Test Automation
 
 `May 2014 - Nov 2014`
-__Software Development Engineer in Test__, *Intel Security*
+- __Software Development Engineer in Test__, *Intel Security*
 
-- Engaged as an SDET in a cross-product QA team for a cloud-based product, collaborating closely with developers, support, and management.
-- Developed and implemented the strategy and framework for test automation in a newly developed Java/ExtJs application.
-- Responsible for planning and estimating the required test environments.
-- The test automation framework was built using Selenium WebDriver, RADIUS client, and proxied through OWASP ZAP for basic security testing.
-- Following office closure due to reorganizations, utilized the time to pursue professional development through courses like LDAP Fundamentals, LPIC-1, OWASP TOP 10, Foundations of Cryptography, and White Box Testing Techniques.
+    - Engaged as an SDET in a cross-product QA team for a cloud-based product, collaborating closely with developers, support, and management.
+    - Developed and implemented the strategy and framework for test automation in a newly developed Java/ExtJs application.
+    - Responsible for planning and estimating the required test environments.
+    - The test automation framework was built using Selenium WebDriver, RADIUS client, and proxied through OWASP ZAP for basic security testing.
+    - Following office closure due to reorganizations, utilized the time to pursue professional development through courses like LDAP Fundamentals, LPIC-1, OWASP TOP 10, Foundations of Cryptography, and White Box Testing Techniques.
 - **Technologies and Skills**: Test Automation, Python, Cybersecurity, Selenium WebDriver, RADIUS, OWASP ZAP, Java, ExtJs, LDAP, LPIC-1, Cryptography, White Box Testing
 
 `May 2012 - May 2014`
-__Consultant__, *HiQ*, Stockholm
+- __Consultant__, *HiQ*, Stockholm
 
-- Engaged in various roles across different projects, emphasizing Java development, tools, and Continuous Delivery (CD).
-- Contributed to a project at Ericsson focusing on Test Automation, Continuous Integration (CI), and CI strategy. Managed Jenkins, builds, and deployment pipelines, along with conducting workshops on CI strategy, repository management, and Maven migration.
-- At Cramo, I joined a team focusing on maintenance of a complex legacy system including AS400. Spearheaded the implementation of a test framework, enhanced logging procedures, and led a small project encompassing technical documentation through to GUI implementation.
-- For DEKRA Automotive, developed a support system for vehicle inspections workflow. Led the technical test strategy, tooling, and automated tests using Selenium, JUnit, and followed TDD practices.
-- Started internal initiative to increase understanding and interest in test automation, CI/CD, and DevOps through colleague training and inspirational lectures.
+    - Engaged in various roles across different projects, emphasizing Java development, tools, and Continuous Delivery (CD).
+    - Contributed to a project at Ericsson focusing on Test Automation, Continuous Integration (CI), and CI strategy. Managed Jenkins, builds, and deployment pipelines, along with conducting workshops on CI strategy, repository management, and Maven migration.
+    - At Cramo, I joined a team focusing on maintenance of a complex legacy system including AS400. Spearheaded the implementation of a test framework, enhanced logging procedures, and led a small project encompassing technical documentation through to GUI implementation.
+    - For DEKRA Automotive, developed a support system for vehicle inspections workflow. Led the technical test strategy, tooling, and automated tests using Selenium, JUnit, and followed TDD practices.
+    - Started internal initiative to increase understanding and interest in test automation, CI/CD, and DevOps through colleague training and inspirational lectures.
 - **Technologies and Skills**: Java, Jenkins, Maven, Selenium, JUnit, Test Automation, Continuous Delivery, Continuous Integration, OWASP Zap, Spring, Python, Bash, Linux, Sonar, MySQL, Ant, Test Strategy, KANBAN, TDD
 
 `Mar 2012`
-__Project Employment__, *RISE Research Institutes of Sweden*, Kista
-
-- Developed a prototype Android app for a study, designed to test different mobile phone feedback mechanisms, which was later tested on Cross country skiers.
+- __Project Employment__, *RISE Research Institutes of Sweden*, Kista
+    -Developed a prototype Android app for a study, designed to test different mobile phone feedback mechanisms, which was later tested on Cross country skiers.
 - **Technologies and Skills**: Bluetooth, Android-SDK, Java, Audio, Vibration, Client/Server architecture
 
 `Oct 2011 - Feb 2012`
-__Master Thesis__, *KTH*, Stockholm
-
-- Developed in Android SDK working with multiple Bluetooth devices in a real-time data recording setup.
+- __Master Thesis__, *KTH*, Stockholm
+    Developed in Android SDK working with multiple Bluetooth devices in a real-time data recording setup.
 - **Technologies and Skills**: Bluetooth, Android SDK, Java, Canvas, Technical Writing, Mobile Applications
 
 ## Early Life and Introduction to IT
