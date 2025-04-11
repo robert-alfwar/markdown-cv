@@ -20,8 +20,7 @@ With a strong DevOps background, I’m a generalist at heart, navigating maintai
 __Founder__, *Alfwar Data*, Stockholm
 - **Independent Consultant**:
     - As an independent consultant, Taking on multiple roles and responsibilities to meet the diverse needs of my clients.
-    - I have provided services to customers in various sectors including telecommunications, IoT, B2B, B2C, insurance companies, and education.
-    - My work has span across different domains, allowing me to leverage a wide range of skills and expertise.
+    - My work has span across different domains as IoT, B2B, B2C, insurance companies, and education. Allowing me to leverage a wide range of skills and expertise.
 
 - **Backend Development**:
     - Multiple NodeJS backend developer projects, both standalone and in AWS serverless architecture, utilizing frameworks such as OpenAPI, ElasticSearch, and ExpressJS.
