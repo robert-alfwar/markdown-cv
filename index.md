@@ -36,7 +36,7 @@ With a strong DevOps background, I’m a generalist at heart, navigating maintai
         - On-prem Kubernetes and platform engineering with an emphasis on SRE, monitoring, and Infrastructure as Code (IaC)
         - Managed PKI (Public Key Infrastructure) solutions
         - Utilized surface scanning tools such as Detectify. 
-        - Application security guidelines with OWASP, and DevSecOps with SAST, DAST and SCA with tools as sonarqube, pentera, dependency-check, mend, snyk, trivy.
+        - Application security guidelines with OWASP and DevSecOps with SAST, DAST and SCA with tools as sonarqube, pentera, dependency-check, mend, snyk and trivy.
         - Ensured compliance with ISO 27001 standards and other regulatory requirements.
 
     - **Quality Management and Testing**:
