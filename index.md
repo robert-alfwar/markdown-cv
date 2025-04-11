@@ -23,7 +23,7 @@ With a strong DevOps background, I’m a generalist at heart, navigating maintai
         - My work span across different domains as IoT, B2B, B2C, insurance companies, and education. Allowing me to leverage a wide range of skills and expertise.
 
     - **Backend Development**:
-        - Multiple NodeJS backend developer projects, both standalone and in AWS serverless architecture, utilizing frameworks such as OpenAPI, ElasticSearch, and ExpressJS.
+        - Multiple NodeJS backend developer projects, both standalone and in AWS serverless architecture, utilizing frameworks such as AWS SDK, ElasticSearch, and ExpressJS.
         - Python programming and scripting for various automation tasks and backend services.
         
     - **Cloud Technologies and DevOps**:
