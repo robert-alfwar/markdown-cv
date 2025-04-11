@@ -67,7 +67,6 @@ With a strong DevOps background, I’m a generalist at heart, navigating maintai
 
 `Nov 2014 - Aug 2015`
 - __Software Development Engineer in Test__, *Nordnet Bank AB*, Stockholm
-
     - Worked as a Test Engineer in a cross-functional team alongside Developers, a Scrum Master, Operations Engineer, and a Product Owner.
     - Took on the responsibility for the quality delivered by the team, focusing on best practices in system design, exploratory testing, and code-based test automation.
     - Engaged in enhancing the way of working, deployment pipeline, and implementing DevOps principles to streamline processes.
@@ -75,7 +74,6 @@ With a strong DevOps background, I’m a generalist at heart, navigating maintai
 
 `May 2014 - Nov 2014`
 - __Software Development Engineer in Test__, *Intel Security*
-
     - Engaged as an SDET in a cross-product QA team for a cloud-based product, collaborating closely with developers, support, and management.
     - Developed and implemented the strategy and framework for test automation in a newly developed Java/ExtJs application.
     - Responsible for planning and estimating the required test environments.
@@ -85,7 +83,6 @@ With a strong DevOps background, I’m a generalist at heart, navigating maintai
 
 `May 2012 - May 2014`
 - __Consultant__, *HiQ*, Stockholm
-
     - Engaged in various roles across different projects, emphasizing Java development, tools, and Continuous Delivery (CD).
     - Contributed to a project at Ericsson focusing on Test Automation, Continuous Integration (CI), and CI strategy. Managed Jenkins, builds, and deployment pipelines, along with conducting workshops on CI strategy, repository management, and Maven migration.
     - At Cramo, I joined a team focusing on maintenance of a complex legacy system including AS400. Spearheaded the implementation of a test framework, enhanced logging procedures, and led a small project encompassing technical documentation through to GUI implementation.
