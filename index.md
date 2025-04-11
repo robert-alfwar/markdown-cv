@@ -29,7 +29,7 @@ __Founder__, *Alfwar Data*, Stockholm
 - **Cloud Technologies and DevOps**:
     - Designing & implementing cloud services in AWS and Azure
     - AWS services such as Lambda, IoT, ElasticSearch, DynamoDB
-    - Azure DevOps, IaC with terraform & Bicept for Azure, Azure Monitor, IAM
+    - Azure DevOps, IaC with terraform for Azure, Azure Monitor, IAM
     - Utilized tools like Jenkins, GitHub, Docker, Cloudwatch, Alertmanager, k6 to improve automation and tool support for agile teams.
 
 - **Platform Engineering & Security**:
