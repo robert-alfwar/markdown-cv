@@ -52,7 +52,7 @@ __Founder__, *Alfwar Data*, Stockholm
 __Lead Cloud Developer__, *SONIQ*, Stockholm
 - Addressed stimulating problems in a dynamic startup environment, focusing on innovative system design with NoSQL and serverless architectures.
 - Designed and implemented a multi-account setup using AWS Control Tower and Landing Zone pattern to ensure a secure and scalable cloud environment.
-- Managed DNS configurations using Route 53 to ensure reliable and scalable domain name services.
+- Managed DNS configurations using Route 53.
 - Utilized AWS Serverless Application Model (SAM) for building serverless applications, ensuring efficient deployment and management of resources.
 - Developed comprehensive solution architectures to address our needs, focusing on scalability, security, and cost-efficiency.
 - Lead for hybrid team with offshore developers.
