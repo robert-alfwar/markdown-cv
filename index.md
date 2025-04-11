@@ -12,30 +12,39 @@ Developer, DevOps Expert and Educator based in Stockholm.
 
 ## Summary
 
-I am currently focused on helping companies navigate the AI transformation. With a strong DevOps background, I’m a generalist at heart, navigating maintainability, agility, quality, security, AI-driven development, automation, and modern engineering practices. My goal is to ensure that AI integration is both scalable and practical, aligning with existing systems and engineering cultures to drive real impact.
+With a strong DevOps background, I’m a generalist at heart, navigating maintainability, agility, quality, security, AI-driven development, automation, and modern engineering practices. With a DevOps mindset my goal is to ensure that AI integration is both scalable and practical, aligning with existing systems and engineering cultures to drive real impact.
 
 ## Experience
 
  `Aug 2017 - Present`
 __Founder__, *Alfwar Data*, Stockholm
+- **Independent Consultant**:
+    - As an independent consultant, Taking on multiple roles and responsibilities to meet the diverse needs of my clients.
+    - I have provided services to customers in various sectors including telecommunications, IoT, B2B, B2C, insurance companies, and education.
+    - My work has span across different domains, allowing me to leverage a wide range of skills and expertise.
+
 - **Backend Development**:
     - Multiple NodeJS backend developer projects, both standalone and in AWS serverless architecture, utilizing frameworks such as OpenAPI, ElasticSearch, and ExpressJS.
-
+    - Python programming and scripting for various automation tasks and backend services.
+    
 - **Cloud Technologies and DevOps**:
     - Designing & implementing cloud services in AWS and Azure
-    - Managed AWS services such as Lambda, IoT, ElasticSearch, DynamoDB, and CloudFormation
-    - Utilized tools like Jenkins, GitHub, Docker, Cloudwatch, Terraform, to improve automation and tool support for agile teams.
+    - AWS services such as Lambda, IoT, ElasticSearch, DynamoDB
+    - Azure DevOps, IaC with terraform & Bicept for Azure, Azure Monitor, IAM
+    - Utilized tools like Jenkins, GitHub, Docker, Cloudwatch, Alertmanager, k6 to improve automation and tool support for agile teams.
 
-- **Platform Engineering**:
+- **Platform Engineering & Security**:
     - On-prem Kubernetes and platform engineering with an emphasis on SRE, monitoring, and Infrastructure as Code (IaC)
     - Managed PKI (Public Key Infrastructure) solutions
+    - Utilized surface scanning tools such as Detectify. 
+    - Application security guidelines with OWASP, and DevSecOps with SAST, DAST and SCA with tools as sonarqube, pentera, dependency-check, mend, snyk, trivy.
     - Ensured compliance with ISO 27001 standards and other regulatory requirements.
 
 - **Quality Management and Testing**:
-    - Served as a Developer / Quality Manager focused on testing and automation frameworks on an IoT platform hosted on AWS.
+    - Served as a Quality Manager focused on testing and automation frameworks
     - Responsible for overseeing and improving development processes, ensuring compliance
     - Managed release processes, ensuring smooth and timely deployments.
-    - Developed and maintained custom test frameworks to enhance testing.
+    - Developed and maintained custom Python/NodeJS test frameworks to enhance testing.
 
 - **Educational Contributions**:
     - Served as an educator in programming, automation, security, agile development, CI & CD, and cloud technologies at Nackademin, focusing on imparting essential skills and knowledge to students.
@@ -43,15 +52,17 @@ __Founder__, *Alfwar Data*, Stockholm
 `Nov 2021 - Oct 2023 (part time)`
 __Lead Cloud Developer__, *SONIQ*, Stockholm
 - Addressed stimulating problems in a dynamic startup environment, focusing on innovative system design with NoSQL and serverless architectures.
-- Managed multiple AWS accounts and led offshore developers, providing mentorship to elevate team skills and ensure quality.
+- Designed and implemented a multi-account setup using AWS Control Tower and Landing Zone pattern to ensure a secure and scalable cloud environment.
+- Managed DNS configurations using Route 53 to ensure reliable and scalable domain name services.
+- Utilized AWS Serverless Application Model (SAM) for building serverless applications, ensuring efficient deployment and management of resources.
+- Developed comprehensive solution architectures to address our needs, focusing on scalability, security, and cost-efficiency.
+- Lead for hybrid team with offshore developers.
 
 `Aug 2015 - Sep 2017`
 __Infrastructure Dev Team / SDET__, *LeoVegas*, Stockholm
-
 - Initially served as a Test Engineer in a rapidly growing organization, focusing on system design, integration tests, and load tests. Contributed to cross-team efforts to develop solutions and enhance agile processes, acting as a Scrum Master stand-in for several sprints.
 - Transitioned to the Infrastructure team, embodying DevOps principles as a Site Reliability Engineer (SRE), in a Docker-based production system managed through infrastructure as code and Git operations. Our team managed Elasticsearch and worked extensively with the ELK stack to ensure optimal system performance and reliability.
 - **Technologies and Skills**: Java, JavaScript, NodeJS, Jenkins, Ansible, Couchbase, Micro Services, SCRUM, Mobile, REST, Docker, Protobuf, Linux, Git, Cloud, Selenium, Python, Locust, DevOps, Test Automation, Rackspace, cloud, ELK, Elasticsearch
-
 
 `Nov 2014 - Aug 2015`
 __Software Development Engineer in Test__, *Nordnet Bank AB*, Stockholm
